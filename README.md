@@ -1,65 +1,109 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Abhinav Srivastava</h1>
-<h3 align="center">ML ENGINEER</h3>
+<h1 align="center">Hi There 👋, I'm Abhinav Srivastava </h1>
+
+<h3 align="center">B.Tech Student | Aspiring Officer | Tech Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Abhinav-DSA">
-    <img src="https://komarev.com/ghpvc/?username=Abhinav-DSA&label=Profile%20views&color=00FFFF&style=flat-square" alt="Abhinav-DSA's profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=B.Tech+Engineer+%7C+NEET+PG+Aspirant;SSB+Officer+Candidate;Problem+Solver+%7C+Lifelong+Learner;Code+%2B+Medicine+%2B+Discipline+%3D+Me" alt="Typing SVG" />
+</p>
+
+---
+
+## 💡 About Me
+
+- 🎓 **B.Tech Student** passionate about engineering, medicine, and self-improvement.
+- 🪖 SSB candidate building **Officer Like Qualities** through structured discipline.
+- 💻 Exploring **web development, data science, and AI/ML** tools.
+- 🧠 I believe in systems — whether for studying, coding, or life.
+- 🌟 I thrive on **problem-solving**, discipline, and turning ideas into impact.
+
+> *"Prepare. Persist. Perform."* 🚀
+
+---
+
+## 🌐 Portfolio & Socials
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK](https://github.com/Abhinav-DSA">
+    <img src="https://img.shields.io/badge/MY PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-srivastava-763816348/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhinavsrivastava820@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-## 📊 GitHub Stats & Trophies
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://github.com/Abhinav-DSA">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhinav-DSA&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Abhinav-DSA's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Abhinav-DSA&theme=radical&hide_border=true&cache_seconds=86400" alt="Abhinav-DSA's GitHub Streak" width="49%" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-DSA&theme=darkhub&no-frame=true&margin-w=10&column=7" />
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+---
 
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,c,cpp,git,github,vscode,figma,linux,firebase,vercel,numpy,pandas,matplotlib,seaborn,pytorch,tensorflow&perline=9" />
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+### 💻 Languages & Frameworks
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `Python` • `C` • `C++`  
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
 
+### 🔧 Tools & Platforms
+`Git` • `GitHub` • `VS Code` • `Firebase` • `Figma` • `Vercel` • `Postman` • `Linux`
+
+### 📊 Data & AI/ML
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `OpenAI API`
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20With-Love%20%26%20Logic-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Always-Learning-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Discipline-AI%2FML-orange?style=flat-square" />
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-DSA&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-DSA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 </p>
 
-<h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-DSA&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
+---
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+## 🏅 Achievements & Roles
 
+- 🩺 **NEET PG Aspirant** — Building a strong foundation in clinical knowledge & MCQ mastery.
+- 🪖 **SSB Officer Candidate** — Developing leadership, teamwork & OLQs through structured bootcamps.
+- 🎓 **B.Tech Engineer** — Working on real-world engineering problems (Circuits, DSP, Networks).
+- 💡 **Self-Improvement Nerd** — Built personal trackers, dashboards, and study tools.
+- 🌐 **Open Source Contributor** — Actively exploring and contributing to dev communities.
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-DSA&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-DSA&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">⭐ <i>If you find my work helpful, consider starring my repositories!</i> ⭐</p>
