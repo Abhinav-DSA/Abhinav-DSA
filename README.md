@@ -34,16 +34,6 @@
   </a>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-DSA&theme=darkhub&no-frame=true&margin-w=10&column=7" />
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
 <p align="center">
