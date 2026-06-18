@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech 3rd year Student  | ML Intern @ DRDO-SSPL | Tech Enthusiast from MAIT-Delhi</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=B.Tech+Engineer+%7C+CDS+Aspirant;SSB+Officer+Candidate;Problem+Solver+%7C+Lifelong+Learner;Code+%2B+Consistency+%2B+Discipline+%3D+Me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=B.Tech+Engineer+%7C+CDS+Aspirant;Problem+Solver+%7C+Lifelong+Learner;Code+%2B+Consistency+%2B+Discipline+%3D+Me" alt="Typing SVG" />
 </p>
 
 ---
